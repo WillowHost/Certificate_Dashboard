@@ -13,7 +13,7 @@ const Index: React.FC = () => {
         portfolioUrl="https://willowhost.github.io/Personal_Website/" 
       />
       
-      <Header name="Ashirbad Routray" title="Python Programmer | Web Developer" />
+      <Header name="Ashirbad Routray" title="Data Analyst" />
       
       <div className="mb-8">
         <h2 className="text-2xl font-semibold text-center mb-4 text-sky-900">Certificates Dashboard</h2>
