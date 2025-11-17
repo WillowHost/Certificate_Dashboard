@@ -10,13 +10,14 @@ export interface Certificate {
 
 // Mock certificates data - you'll replace with your actual certificates later
 export const certificates: Certificate[] = [
-   {
+
+  {
     id: "1",
-    title: "Aritificial Intelligence",
-    issuedBy: "Udemy",
-    dateObtained: "May 2025",
-    thumbnailPath: "/thumbnails/ai.png",
-    pdfPath: "/certificates/AI_Bootcamp.pdf",
+    title: "Advance SQL",
+    issuedBy: "HackerRank",
+    dateObtained: "Aug 2025",
+    thumbnailPath: "/thumbnails/sql.png",
+    pdfPath: "/certificates/sql_advanced certificate.pdf",
   },
   {
     id: "2",
@@ -65,14 +66,6 @@ export const certificates: Certificate[] = [
     dateObtained: "Nov 2023",
     thumbnailPath: "/thumbnails/html.png", 
     pdfPath: "/certificates/HTML&CSS_Certificate.pdf",
-  },
-  {
-    id: "6",
-    title: "Advance SQL",
-    issuedBy: "HackerRank",
-    dateObtained: "Aug 2025",
-    thumbnailPath: "/thumbnails/sql.png",
-    pdfPath: "/certificates/sql_advanced certificate.pdf",
   },
   // {
   //   id: "7",
