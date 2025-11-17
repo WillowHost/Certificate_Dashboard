@@ -66,14 +66,14 @@ export const certificates: Certificate[] = [
     thumbnailPath: "/thumbnails/html.png", 
     pdfPath: "/certificates/HTML&CSS_Certificate.pdf",
   },
-  // {
-  //   id: "6",
-  //   title: "Machine Learning",
-  //   issuedBy: "Stanford Online",
-  //   dateObtained: "Nov 2023",
-  //   thumbnailPath: "/placeholder.svg",
-  //   pdfPath: "#",
-  // },
+  {
+    id: "6",
+    title: "Advance SQL",
+    issuedBy: "HackerRank",
+    dateObtained: "Aug 2025",
+    thumbnailPath: "/thumbnails/sql.png",
+    pdfPath: "/certificates/sql_advanced certificate.pdf",
+  },
   // {
   //   id: "7",
   //   title: "DevOps Essentials",
